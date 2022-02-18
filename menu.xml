@@ -9,6 +9,11 @@
       <startupnotify><enabled>yes</enabled></startupnotify>
     </action>
   </item>
+  <item label="Appearance">
+    <action name="Execute">
+      <command>lxappearance</command>
+    </action>
+  </item>
   <item label="Desktop Preferences">
     <action name="Execute">
       <command>pcmanfm --desktop-pref</command>
