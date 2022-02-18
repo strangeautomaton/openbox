@@ -3,12 +3,6 @@
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 
 <menu id="system-menu" label="System">
-  <item label="Openbox Configuration Manager">
-    <action name="Execute">
-      <command>obconf</command>
-      <startupnotify><enabled>yes</enabled></startupnotify>
-    </action>
-  </item>
   <item label="Appearance">
     <action name="Execute">
       <command>lxappearance</command>
