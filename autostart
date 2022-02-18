@@ -6,7 +6,7 @@ fi
 
 # Basics
 unagi &
-pcmanfm --desktop &
+nitrogen --restore &
 tint2 &
 
 # Tray icons
