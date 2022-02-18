@@ -8,9 +8,9 @@
       <command>lxappearance</command>
     </action>
   </item>
-  <item label="Desktop Preferences">
+  <item label="Set Wallpaper">
     <action name="Execute">
-      <command>pcmanfm --desktop-pref</command>
+      <command>nitrogen</command>
     </action>
   </item>
   <item label="Manage Cups Printers">
